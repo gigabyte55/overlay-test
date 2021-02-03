@@ -1,0 +1,11 @@
+{
+  "name": "overlay-test",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "4.17.1",
+    "webpack": "4.46.0",
+    "webpack-dev-middleware": "3.7.3",
+    "webpack-hot-middleware": "2.25.0",
+    "error-overlay-webpack-plugin": "0.4.2"
+  }
+}
